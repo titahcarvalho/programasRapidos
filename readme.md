@@ -1,0 +1,1 @@
+Olá, estes são programas simples em Java que fazem parte das aulas de introdução à linguagem. Eles utilizam apenas operadores aritméticos simples, com o intuito de aprimorar a lógica de programação.
